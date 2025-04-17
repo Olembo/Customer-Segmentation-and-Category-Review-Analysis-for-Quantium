@@ -25,8 +25,6 @@ The analysis is divided into two main tasks:
     * requirements.txt
     * notebooks/
         * chips_analysis_final.ipynb
-    * reports/
-        * final_report.pdf
     * presentation/
         * final_presentation.pptx
           
